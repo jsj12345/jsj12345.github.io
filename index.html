@@ -4,19 +4,19 @@
   <meta charset="utf-8">
   
   
-  <title>自然语言处理</title>
+  <title>山东大学云计算技术实验报告</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="分词">
+  <meta name="description" content="部署博客">
 <meta property="og:type" content="website">
-<meta property="og:title" content="自然语言处理">
+<meta property="og:title" content="山东大学云计算技术实验报告">
 <meta property="og:url" content="http://example.com/index.html">
-<meta property="og:site_name" content="自然语言处理">
-<meta property="og:description" content="分词">
-<meta property="og:locale" content="en_US">
-<meta property="article:author" content="Jing shuji">
+<meta property="og:site_name" content="山东大学云计算技术实验报告">
+<meta property="og:description" content="部署博客">
+<meta property="og:locale">
+<meta property="article:author" content="荆树吉">
 <meta name="twitter:card" content="summary">
   
-    <link rel="alternate" href="/atom.xml" title="自然语言处理" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="山东大学云计算技术实验报告" type="application/atom+xml">
   
   
     <link rel="shortcut icon" href="/favicon.png">
@@ -44,11 +44,11 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">自然语言处理</a>
+        <a href="/" id="logo">山东大学云计算技术实验报告</a>
       </h1>
       
         <h2 id="subtitle-wrap">
-          <a href="/" id="subtitle">实验2</a>
+          <a href="/" id="subtitle">实验3-2</a>
         </h2>
       
     </div>
@@ -65,10 +65,10 @@
         
           <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
-        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Suche"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Suche"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
       </div>
     </div>
   </div>
@@ -76,54 +76,6 @@
 
       <div class="outer">
         <section id="main">
-  
-    <article id="post-实验三：词性标注" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/2023/03/20/%E5%AE%9E%E9%AA%8C%E4%B8%89%EF%BC%9A%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8/" class="article-date">
-  <time class="dt-published" datetime="2023-03-20T10:24:43.948Z" itemprop="datePublished">2023-03-20</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-    <div class="e-content article-entry" itemprop="articleBody">
-      
-        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">title: shiiyan3</span><br></pre></td></tr></table></figure>
-
-
-
-<h2 id="实验三"><a href="#实验三" class="headerlink" title="实验三"></a>实验三</h2><h4 id="实验简介："><a href="#实验简介：" class="headerlink" title="实验简介："></a>实验简介：</h4><p>​		词性标注是将语料库内单词的词性按照其含义和上下文内容进行标注的文本数据处理技术，主要用于文本挖掘和自然语言处理领域。词性标注的机器学习算法主要为序列模型，包括HMM、最大熵马尔可夫模型( MEMM）、条件随机场（CRF）等广义上的马尔可夫模型以及以循环神经网络（ RNN）为代表的深度学习算法 。此外，一些机器学习的常规分类器，例如支持向量机（SVM）在改进后也可用于词性标注 。</p>
-<h4 id="实验目的："><a href="#实验目的：" class="headerlink" title="实验目的："></a>实验目的：</h4><p>1.理解并实践词性标注，了解词性标注在自然语言处理领域的用处。</p>
-<p>2.加强对CRF的理解，掌握CRF思想及其作用。</p>
-<p>3.编写CRF算法并使用CRF进行词性标注。</p>
-<h4 id="实验内容："><a href="#实验内容：" class="headerlink" title="实验内容："></a>实验内容：</h4><p>1.利用 Chinese.txt 和 English.txt 的中英文句子，在实验二的基础上，继续利用以下给定的中英文工具进行词性标注。并对不同工具产生的结果进行简要对比分析，将实验过程与结果写成实验报告，实验课结束后提交。</p>
-<p>2.使用python编程实践CRF，进行词性标注。该实验基于python3.6以及keras训练bi-lstm,结合CRF来实现词性标注，本实验可以在云平台进行，也可以在在本机进行。</p>
-<h4 id="英文工具："><a href="#英文工具：" class="headerlink" title="英文工具："></a>英文工具：</h4><p>Nltk：<br><a target="_blank" rel="noopener" href="http://www.nltk.org/index.html">http://www.nltk.org/index.html</a><br><a target="_blank" rel="noopener" href="https://github.com/nltk/nltk">https://github.com/nltk/nltk</a><br><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/9d232e4a3c28">https://www.jianshu.com/p/9d232e4a3c28</a></p>
-<p>Spacy：<br><a target="_blank" rel="noopener" href="https://blog.csdn.net/u012436149/article/details/79321112">https://blog.csdn.net/u012436149/article/details/79321112</a><br><a target="_blank" rel="noopener" href="https://spacy.io/usage/linguistic-features#section-tokenization">https://spacy.io/usage/linguistic-features#section-tokenization</a></p>
-<p>Stanfordnlp：<br><a target="_blank" rel="noopener" href="https://github.com/Lynten/stanford-corenlp">https://github.com/Lynten/stanford-corenlp</a></p>
-<p><strong>中文工具：</strong> （部分工具命名实体识别没有直接调用的函数，可以根据词性标注的结果自己实现）</p>
-<p>Jieba：<br><a target="_blank" rel="noopener" href="https://github.com/fxsjy/jieba">https://github.com/fxsjy/jieba</a></p>
-<p>StanfordCoreNLP：<br><a target="_blank" rel="noopener" href="https://github.com/Lynten/stanford-corenlp">https://github.com/Lynten/stanford-corenlp</a></p>
-<p>SnowNLP：<br><a target="_blank" rel="noopener" href="https://github.com/isnowfy/snownlp">https://github.com/isnowfy/snownlp</a><br><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/4692d1b5364d">https://www.jianshu.com/p/4692d1b5364d</a></p>
-<p>THULAC：<br><a target="_blank" rel="noopener" href="https://github.com/thunlp/THULAC-Python">https://github.com/thunlp/THULAC-Python</a></p>
-<p>NLPIR：<br><a target="_blank" rel="noopener" href="https://github.com/tsroten/pynlpir">https://github.com/tsroten/pynlpir</a><br><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_34613450/article/details/78695166">https://blog.csdn.net/weixin_34613450/article/details/78695166</a></p>
-<p>HanLP（选做，需要 Microsoft Visual C++ 14.0）<br><a target="_blank" rel="noopener" href="https://github.com/hankcs/pyhanlp">https://github.com/hankcs/pyhanlp</a></p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2023/03/20/%E5%AE%9E%E9%AA%8C%E4%B8%89%EF%BC%9A%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8/" data-id="clfgonirr0003dot3dq410dke" data-title="" class="article-share-link">Share</a>
-      
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-
   
     <article id="post-ok" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
@@ -137,24 +89,46 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <p>​      title: ok</p>
-<p>实验二</p>
-<p><strong>要求：</strong>利用给定的中英文文本序列（见 Chinese.txt 和 English.txt），分别利用以下给定的中英文分词工具进行分词并对不同分词工具产生的结果进行简要对比分析，将实验过程与结果写成实验报告，实验课结束后提交。</p>
-<h3 id="中文分词-工具"><a href="#中文分词-工具" class="headerlink" title="中文分词 工具"></a>中文分词 工具</h3><p><strong>Jieba（</strong>重点），尝试<strong>三种分词模式</strong>与<strong>自定义词典</strong>功能：<br><a target="_blank" rel="noopener" href="https://github.com/fxsjy/jieba">https://github.com/fxsjy/jieba</a></p>
-<p>SnowNLP：<br><a target="_blank" rel="noopener" href="https://github.com/isnowfy/snownlp">https://github.com/isnowfy/snownlp</a></p>
-<p>THULAC：<br><a target="_blank" rel="noopener" href="https://github.com/thunlp/THULAC-Python">https://github.com/thunlp/THULAC-Python</a></p>
-<p>NLPIR：<br><a target="_blank" rel="noopener" href="https://github.com/tsroten/pynlpir">https://github.com/tsroten/pynlpir</a><br><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_34613450/article/details/78695166">https://blog.csdn.net/weixin_34613450/article/details/78695166</a></p>
-<p>StanfordCoreNLP：<br><a target="_blank" rel="noopener" href="https://github.com/Lynten/stanford-corenlp">https://github.com/Lynten/stanford-corenlp</a></p>
-<p>HanLP（选做，需要额外安装 Microsoft Visual C++ 14.0）<br><a target="_blank" rel="noopener" href="https://github.com/hankcs/pyhanlp">https://github.com/hankcs/pyhanlp</a></p>
-<h3 id="英文分词-工具"><a href="#英文分词-工具" class="headerlink" title="英文分词 工具"></a>英文分词 工具</h3><p>NLTK：<br><a target="_blank" rel="noopener" href="http://www.nltk.org/index.html">http://www.nltk.org/index.html</a><br><a target="_blank" rel="noopener" href="https://github.com/nltk/nltk">https://github.com/nltk/nltk</a><br><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/9d232e4a3c28">https://www.jianshu.com/p/9d232e4a3c28</a></p>
-<p>SpaCy：</p>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/u012436149/article/details/79321112">https://blog.csdn.net/u012436149/article/details/79321112</a><br><a target="_blank" rel="noopener" href="https://spacy.io/usage/linguistic-features#section-tokenization">https://spacy.io/usage/linguistic-features#section-tokenization</a></p>
-<p>StanfordCoreNLP：<br><a target="_blank" rel="noopener" href="https://github.com/Lynten/stanford-corenlp">https://github.com/Lynten/stanford-corenlp</a></p>
+        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">title:ok</span><br></pre></td></tr></table></figure>
+
+<p>​                          山东大学  计算机科学与技术  学院</p>
+<p>​                                云计算技术  课程实验报告</p>
+<table>
+<thead>
+<tr>
+<th><strong>学号：202000130199  |姓名：荆树吉 |  班级：20数据</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>实验题目：利用云平台搭建个人博客</strong></td>
+</tr>
+<tr>
+<td><strong>实验学时：2</strong>|<strong>实验日期： 2023.3.15</strong></td>
+</tr>
+<tr>
+<td><strong>实验目的：熟悉个人博客系统的搭建。<br/>具体包括：<br/>参考方案：注册Github账号，搭建Hexo环境并实现个人博客搭建，撰写实验报告。</strong></td>
+</tr>
+<tr>
+<td><strong>硬件环境： <br/>联网的计算机一台</strong></td>
+</tr>
+<tr>
+<td>**软件环境：<br/>Windows **</td>
+</tr>
+<tr>
+<td><strong>实验步骤与内容：</strong></td>
+</tr>
+<tr>
+<td>•    1.安装Git<br/>•	<strong>windows：</strong>到git官网上下载.exe文件,Download git,安装选项还是全部默认，只不过最后一步添加路径时选择Use Git from the Windows Command Prompt，这样我们就可以直接在命令提示符里打开git了。<br/>•	2.安装Node.js<br/>•	<strong>windows：</strong>下载稳定版或者最新版都可以Node.js，安装选项全部默认，一路点击Next。<br/>最后安装好之后，按Win+R打开命令提示符，输入node -v和npm -v，如果出现版本号，那么就安装成功了。<br/>•	3.安装Hexo<br/>•	前面git和nodejs安装好后，就可以安装hexo了，可以先创建一个文件夹MyBlog，用来存放自己的博客文件，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）<br/>•	定位到该目录下，输入npm install -g hexo-cli安装Hexo。可能会有几个报错，无视它就行<br/>•	npm install -g hexo-cli<br/>•	安装完后输入hexo -v验证是否安装成功。<br/>•	<br/>•	至此hexo就安装完了。<br/>hexo init<br/>这个Hexo可以自己取什么名字都行，然后，接着输入npm install安装必备的组件。<br/><br/>新建完成后，指定文件夹Hexo目录下有：<br/><br/>node_modules: 依赖包<br/>public：存放生成的页面<br/>scaffolds：生成文章的一些模板<br/>source：用来存放你的文章<br/>themes：主题**<br/>_config.yml: 博客的配置文件**<br/>这样本地的网站配置也弄好啦，输入hexo g生成静态网页，然后输入hexo s打开本地服务器，<br/> <br/><img src="file:///C:/Users/86132/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" alt="img">•	4.GitHub创建个人仓库<br/>•	打开<a target="_blank" rel="noopener" href="https://github.com/%EF%BC%8C%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E4%BB%93%E5%BA%93New">https://github.com/，新建一个项目仓库New</a> repository，如下所示：<br/>•	 <br/><img src="file:///C:/Users/86132/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img">•	5.生成SSH添加到GitHub<br/>•	生成SSH添加到GitHub，连接Github与本地。<br/>•	右键打开git bash，然后输入下面命令：<br/>•	git config –global user.name “yourname”<br/>•	git config –global user.email “youremail”<br/>•	注意：第一次使用git后需要将用户名和邮箱进行初始化<br/>•	<br/>•	这里的yourname输入你的GitHub用户名，youremail输入你GitHub的邮箱。这样GitHub才能知道你是不是对应它的账户。例如<br/>•	git config –global user.name “jsj12345”<br/>•	git config –global user.email <a href="mailto:&#50;&#49;&#x31;&#x35;&#53;&#x32;&#x35;&#56;&#x33;&#x32;&#64;&#x71;&#x71;&#46;&#99;&#x6f;&#109;">&#50;&#49;&#x31;&#x35;&#53;&#x32;&#x35;&#56;&#x33;&#x32;&#64;&#x71;&#x71;&#46;&#99;&#x6f;&#109;</a><br/>•	可以用以下两条，检查一下你有没有输对<br/>•	git config user.name<br/>•	git config user.email<br/>•	然后创建SSH,一路回车<br/>•	ssh-keygen -t rsa -C “youremail”<br/>•	cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br/>•	打开github，在头像下面点击settings，再点击SSH and GPG keys，新建一个SSH，名字随便取一个都可以，把你的id_rsa.pub里面的信息复制进去。如图：<br/>•	 <br/><img src="file:///C:/Users/86132/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" alt="img">•	在git bash输入ssh -T <a href="mailto:&#x67;&#105;&#x74;&#x40;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#105;&#x74;&#x40;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a>，如果如下图所示，出现你的用户名，那就成功了。<br/>•	6.将hexo部署到GitHub<br/>•	这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上，打开博客根目录下的_config.yml文件，这是博客的配置文件，在这里你可以修改与博客配置相关的各种信息<br/>•	修改最后一行的配置：<br/>•	 deploy:<br/>•	  type: git<br/>•	  repository: <a target="_blank" rel="noopener" href="https://github.com/jsj12345/jsj12345.github.io.git">https://github.com/jsj12345/jsj12345.github.io.git</a><br/>•	  branch: master<br/>•	repository修改为你自己的github项目地址即可就是部署时，告诉工具，将生成网页通过git方式上传到你对应的链接仓库中。<br/>•	<br/>•	这个时候需要先安装deploy-git ，也就是部署的命令,这样你才能用命令部署到GitHub。<br/>•	npm install hexo-deployer-git –save<br/>•	hexo clean<br/>•	hexo generate<br/>•	hexo deploy<br/>•	<br/>•	7.设置个人域名<br/>•	可省略因为需要花钱，且意义不明显<br/>•	8.发布文章<br/>•	首先在博客根目录下右键打开git bash，安装一个扩展npm i hexo-deployer-git。<br/>•	<br/>•	然后输入hexo new post “我的第一篇博客”，新建一篇文章。<br/>•	<br/>•	然后打开D:\Hexo\source_posts的目录，可以发现下面多了一个文件夹和一个.md文件，一个用来存放你的图片等数据，另一个就是你的文章文件啦。<br/>•	你可以会直接在vscode里面编写markdown文件，可以实时预览，也可以用用其他编辑md文件的软件的工具编写。<br/>•	编写完markdown文件后，根目录下输入hexo g生成静态网页，然后输入hexo s可以本地预览效果，最后输入hexo d上传到github上。这时打开你的github.io主页就能看到发布的文章啦。<br/>•	<br/>•	到这儿基本第一部分就完成了，已经完整搭建起一个比较简陋的个人博客了，接下来我们就可以对我们的博客进行个性化定制了。<br/>个性化定制暂略</td>
+</tr>
+<tr>
+<td>结论分析与体会：Hexo是高效的静态网站生成框架，它基于Node.js，快速，简单且功能强大，是搭建博客的首选框架。通过Hexo，我们可以直接使用Markdown语法来撰写博客</td>
+</tr>
+</tbody></table>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2023/03/20/ok/" data-id="clfgoniri0001dot3busx30my" data-title="" class="article-share-link">Share</a>
+      <a data-url="http://example.com/2023/03/20/ok/" data-id="clfgoyuca0001p8t3bksobc1s" data-title="" class="article-share-link">Teilen</a>
       
       
       
@@ -182,7 +156,7 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Archives</h3>
+    <h3 class="widget-title">Archiv</h3>
     <div class="widget">
       <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/03/">March 2023</a></li></ul>
     </div>
@@ -192,13 +166,9 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Recent Posts</h3>
+    <h3 class="widget-title">letzter Beitrag</h3>
     <div class="widget">
       <ul>
-        
-          <li>
-            <a href="/2023/03/20/%E5%AE%9E%E9%AA%8C%E4%B8%89%EF%BC%9A%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8/">(no title)</a>
-          </li>
         
           <li>
             <a href="/2023/03/20/ok/">(no title)</a>
@@ -217,7 +187,7 @@
   <div class="outer">
     <div id="footer-info" class="inner">
       
-      &copy; 2023 Jing shuji<br>
+      &copy; 2023 荆树吉<br>
       Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
