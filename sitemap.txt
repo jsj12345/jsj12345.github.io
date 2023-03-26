@@ -2,7 +2,6 @@ http://example.com/2023/03/22/1/
 http://example.com/2023/03/21/ok/
 http://example.com/tags/1.html
 http://example.com/
-http://example.com/tags/7/
-http://example.com/tags/1/
-http://example.com/categories/%E7%A8%8B%E8%AE%BE/
+http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/
+http://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF/
 http://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/
