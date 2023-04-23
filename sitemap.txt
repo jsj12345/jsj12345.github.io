@@ -1,3 +1,4 @@
+http://example.com/2023/04/23/openVZ/
 http://example.com/2023/04/18/Docker/
 http://example.com/2023/04/16/KVM/
 http://example.com/2023/04/11/nlp05/
@@ -15,6 +16,7 @@ http://example.com/tags/VM/
 http://example.com/tags/%E8%AF%8D%E5%90%91%E9%87%8F/
 http://example.com/tags/KVM/
 http://example.com/tags/Docker/
+http://example.com/tags/openVZ/
 http://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/
 http://example.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/
 http://example.com/categories/nlp/

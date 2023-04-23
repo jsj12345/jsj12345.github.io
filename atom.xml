@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-18T12:40:15.791Z</updated>
+  <updated>2023-04-23T11:43:30.852Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>openVZ</title>
+    <link href="http://example.com/2023/04/23/openVZ/"/>
+    <id>http://example.com/2023/04/23/openVZ/</id>
+    <published>2023-04-23T11:23:12.483Z</published>
+    <updated>2023-04-23T11:43:30.852Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="山东大学-计算机科学与技术-学院"><a href="#山东大学-计算机科学与技术-学院" class="headerlink" title="山东大学  计算机科学与技术  学院"></a>山东大学  计算机科学与技术  学院</h1><h1 id="云计算技术-课程实验报告"><a href="#云计算技术-课程实验报告" class="headerlink" title="云计算技术  课程实验报告"></a>云计算技术  课程实验报告</h1><table><thead><tr><th>学号：202000130199</th><th>姓名： 荆树吉</th><th>班级： 20数据</th></tr></thead></table><table><thead><tr><th>实验题目：操作系统虚拟化  OpenVZ</th></tr></thead></table><table><thead><tr><th>实验学时：2</th><th>实验日期： 2023.4.18</th></tr></thead></table><table><thead><tr><th>实验目的：在Linux环境下，熟悉OpenVZ虚拟化。  具体包括：自行了解OpenVZ虚拟化技术，完成实验环境及实验工具的熟悉，包括安装和配置OpenVZ，了解如何创建容器等，撰写实验报告。</th></tr></thead></table><table><thead><tr><th>硬件环境： 联网的计算机一台</th></tr></thead></table><table><thead><tr><th>软件环境：Linux</th></tr></thead></table><h2 id="实验步骤与内容："><a href="#实验步骤与内容：" class="headerlink" title="实验步骤与内容："></a>实验步骤与内容：</h2><h3 id="1-添加源"><a href="#1-添加源" class="headerlink" title="1.添加源"></a>1.添加源</h3><p>vim &#x2F;etc&#x2F;apt&#x2F;sources.list.d&#x2F;openvz.list</p><p>写入下面内容保存</p><p>如果需要,可以视情况改动注释.</p><p>deb <a href="http://download.openvz.org/debian">http://download.openvz.org/debian</a> wheezy main</p><p># deb <a href="http://download.openvz.org/debian">http://download.openvz.org/debian</a> wheezy-test main</p><h3 id="2-导入key后更新"><a href="#2-导入key后更新" class="headerlink" title="2.导入key后更新"></a>2.导入key后更新</h3><p>wget <a href="http://ftp.openvz.org/debian/archive.key">http://ftp.openvz.org/debian/archive.key</a></p><p>apt-key add archive.key</p><p>apt update</p><h3 id="3-配置内核参数"><a href="#3-配置内核参数" class="headerlink" title="3. 配置内核参数"></a>3. 配置内核参数</h3><p>vim &#x2F;etc&#x2F;sysctl.conf</p><p>配置这些项:</p><p># On Hardware Node we generally need</p><p># packet forwarding enabled and proxy arp disabled</p><p>net.ipv4.ip_forward &#x3D; 1</p><p>net.ipv6.conf.default.forwarding &#x3D; 1</p><p>net.ipv6.conf.all.forwarding &#x3D; 1</p><p>net.ipv4.conf.default.proxy_arp &#x3D; 0</p><p># Enables source route verification</p><p>net.ipv4.conf.all.rp_filter &#x3D; 1</p><p># Enables the magic-sysrq key</p><p>kernel.sysrq &#x3D; 1</p><p># We do not want all our interfaces to send redirects</p><p>net.ipv4.conf.default.send_redirects &#x3D; 1</p><p>net.ipv4.conf.all.send_redirects &#x3D; 0</p><h3 id="4-让修改立刻生效"><a href="#4-让修改立刻生效" class="headerlink" title="4.让修改立刻生效:"></a>4.让修改立刻生效:</h3><p>sysctl -p</p><h3 id="5-安装64位系统用这个"><a href="#5-安装64位系统用这个" class="headerlink" title="5.安装64位系统用这个"></a>5.安装64位系统用这个</h3><p>apt install -y linux-image-openvz-amd64 vzctl vzquota ploop vzstats</p><h3 id="6-进入openvz内核"><a href="#6-进入openvz内核" class="headerlink" title="6.进入openvz内核"></a>6.进入openvz内核</h3><p>重启,在grub中选择”advance options for ubuntu”进入后可找到带着openvz的行(有可能不止一个,选第一个就是了)</p><h3 id="7-使用"><a href="#7-使用" class="headerlink" title="7.使用"></a>7.使用</h3><p>① 创建并初始化虚拟机</p><p>创建虚拟机需要下载系统模板</p><p>#创建虚拟机,编号102 参数是:虚拟机编号 –ostemplate 系统模板</p><p>vzctl create 102 –ostemplate debian-7.0-x86-minimal</p><p>#设置主机名称</p><p>vzctl set 102 –hostname “vz102” –save</p><p>#限制CPU</p><p>vzctl set 102 –cpuunits 1000 –cpulimit 50 –save</p><p>#限制I&#x2F;O</p><p>vzctl set 102 –iolimit 5M –save</p><p>#设置内存和swap</p><p>vzctl set 102 –ram 64M –swap 0G –save</p><p>#设置硬盘大小 参数:编号 –diskspace 软限制:硬限制 –save</p><p>vzctl set 102 –diskspace 64M:5G –save</p><p>#设置ip</p><p>vzctl set 102 –ipadd 192.168.0.2 –save</p><p>#设定dns服务器</p><p>vzctl set 102 –nameserver 8.8.8.8 –nameserver 8.8.4.4 –save</p><p>#设置root用户密码(需要Cgroup)</p><p>vzctl set 102 –userpasswd root:passwd</p><p>#主机开机时自动运行虚拟机,酌情使用</p><p>vzctl set 102 –onboot yes –save</p><p>② 启动</p><p>vzctl restart 102</p><p>③ 关闭</p><p>vzctl stop 102</p><p>④ 删除</p><p>vzctl destroy 102</p><p>⑤ 查看资源占用</p><p>vzcalc -v 102</p><h3 id="8-网络配置"><a href="#8-网络配置" class="headerlink" title="8.网络配置"></a>8.网络配置</h3><p>#Clear All configure</p><p>iptables -F</p><p>iptables -F -t nat</p><p>#let the computer can to forward data</p><p>iptables -A FORWARD -j ACCEPT</p><p>#这行是打通nat功能,让vps能通过host的ip发送数据到外网,外网也能返回数据,要改两个地方:网卡和最后的ip</p><p>iptables -t nat -A POSTROUTING -o eth0 -j SNAT –to 主机对外的ip</p><p>#这行是端口转发,把ssh端口打通一下</p><p>iptables -t nat -A PREROUTING -p tcp -m tcp –dport 10222 -j DNAT –to-destination 192.168.0.2:22</p><h2 id="结论分析与体会："><a href="#结论分析与体会：" class="headerlink" title="结论分析与体会："></a>结论分析与体会：</h2><p>优势：外面卖的这种类型，许可的内存都超大，CPU也强劲，而且卖家很多，可比性也很强。性价比超高。</p><p>劣势：超卖，没有不超卖的，导致各种石头盘，钻石盘。连带的cpu也被过度分割导致性能升值不如其标明的1&#x2F;10。再有就是内存，基本上OpenVZ技术没有独占的，都是共享，别人多了你就少了，而且这种技术最大的劣势就是内存下来后直接就是当机。还有开设vpn各种不方便</p>]]></content>
+    
+    
+    <summary type="html">有关openVZ</summary>
+    
+    
+    
+    <category term="云计算" scheme="http://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    
+    
+    <category term="openVZ" scheme="http://example.com/tags/openVZ/"/>
+    
+  </entry>
   
   <entry>
     <title>Docker环境配置</title>
