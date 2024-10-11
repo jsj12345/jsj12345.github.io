@@ -6,7 +6,7 @@
   <link href="http://interaction2023.cn/atom.xml" rel="self"/>
   
   <link href="http://interaction2023.cn/"/>
-  <updated>2024-10-09T14:23:39.613Z</updated>
+  <updated>2024-10-11T04:05:13.606Z</updated>
   <id>http://interaction2023.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学套卷</title>
+    <link href="http://interaction2023.cn/2024/10/11/%E6%95%B0%E5%AD%A6%E5%A5%97%E5%8D%B7/"/>
+    <id>http://interaction2023.cn/2024/10/11/%E6%95%B0%E5%AD%A6%E5%A5%97%E5%8D%B7/</id>
+    <published>2024-10-11T04:03:30.232Z</published>
+    <updated>2024-10-11T04:05:13.606Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2024/10/11/%E6%95%B0%E5%AD%A6%E5%A5%97%E5%8D%B7/%E5%A5%97%E5%8D%B7_00.png"></p>]]></content>
+    
+    
+    <summary type="html">数学</summary>
+    
+    
+    
+    <category term="数学" scheme="http://interaction2023.cn/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="数学" scheme="http://interaction2023.cn/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络笔记</title>
