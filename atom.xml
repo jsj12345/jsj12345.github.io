@@ -6,7 +6,7 @@
   <link href="http://interaction2023.cn/atom.xml" rel="self"/>
   
   <link href="http://interaction2023.cn/"/>
-  <updated>2025-03-19T13:44:43.881Z</updated>
+  <updated>2025-03-19T13:56:20.387Z</updated>
   <id>http://interaction2023.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>项目</title>
+    <link href="http://interaction2023.cn/2025/03/19/PROJECT/"/>
+    <id>http://interaction2023.cn/2025/03/19/PROJECT/</id>
+    <published>2025-03-19T13:51:59.038Z</published>
+    <updated>2025-03-19T13:56:20.387Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2025/03/19/PROJECT/PROJECT.png"></p><p><img src="/2025/03/19/PROJECT/PROJECT2.png" alt="PROJECT2"></p><p><img src="/2025/03/19/PROJECT/PROJECT3.png" alt="PROJECT3"></p>]]></content>
+    
+    
+    <summary type="html">7</summary>
+    
+    
+    
+    <category term="项目" scheme="http://interaction2023.cn/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="项目" scheme="http://interaction2023.cn/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>MACHINE</title>
