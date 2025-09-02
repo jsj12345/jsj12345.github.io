@@ -6,7 +6,7 @@
   <link href="http://interaction2023.cn/atom.xml" rel="self"/>
   
   <link href="http://interaction2023.cn/"/>
-  <updated>2025-09-01T03:49:25.349Z</updated>
+  <updated>2025-09-02T01:37:05.668Z</updated>
   <id>http://interaction2023.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>deeplearning 鱼与熊掌可以兼得</title>
+    <link href="http://interaction2023.cn/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/"/>
+    <id>http://interaction2023.cn/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</id>
+    <published>2025-09-02T01:11:48.559Z</published>
+    <updated>2025-09-02T01:37:05.668Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="鱼与熊掌兼得（deeplearning的好处）"><a href="#鱼与熊掌兼得（deeplearning的好处）" class="headerlink" title="鱼与熊掌兼得（deeplearning的好处）"></a>鱼与熊掌兼得（deeplearning的好处）</h1><h2 id="一-两难境地"><a href="#一-两难境地" class="headerlink" title="一.两难境地"></a>一.两难境地</h2><p>在deep learning过程中，对应的参数量过多，可能会造成过拟合的现象，而相反的，参数量过少有可能获得不了比较良好的效果，这让我们进入了两难的境地。</p><h2 id="二-piecewise-linear-分段线性曲线回顾"><a href="#二-piecewise-linear-分段线性曲线回顾" class="headerlink" title="二.piecewise linear(分段线性曲线回顾)"></a>二.piecewise linear(分段线性曲线回顾)</h2><p>分段线性曲线可以看作常数项加上一系列的Z形函数。</p><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902092334684.png" alt="image-20250902092334684"></p><p>而对应的hard sigmoid的一段函数又可以有对应的两端RELU函数进行组合表示。</p><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902092535998.png" alt="image-20250902092535998"></p><h2 id="三-是否深度学习表现更加优异"><a href="#三-是否深度学习表现更加优异" class="headerlink" title="三.是否深度学习表现更加优异"></a>三.是否深度学习表现更加优异</h2><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902092655642.png" alt="image-20250902092655642"></p><p>可以看到，随着对应的深度学习的层数增加对应的语音识别的错误率也有所降低。</p><p>那么瘦高的神经网络，和矮胖的神经网络哪个更好。</p><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902092819086.png" alt="image-20250902092819086"></p><p>若采取同样的参数量，这里两种神经网络那个更加的优秀。</p><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902092928669.png" alt="image-20250902092928669"></p><p>如图所示，采用相同的参数量，对应的更深的神经网络的表现要明显的优于矮胖的神经网络。</p><p>甚至到最后矮胖的神经网络随着参数的增多，对应的实验效果变得不那么优秀，甚至出现了倒退的行为。</p><h2 id="四-为什么我们需要更深的神经网络。"><a href="#四-为什么我们需要更深的神经网络。" class="headerlink" title="四.为什么我们需要更深的神经网络。"></a>四.为什么我们需要更深的神经网络。</h2><p>的确一层的神经网络可以拟合出任何的函数，但是利用深度学习网络对于效果的提升更加具有效率。例如：逻辑元器件进行组合，采用更深的 组合可以减少器件的数量。在编程的过程中比较深的递归的方法可以很大程度上的节省编程的程序篇幅，增加代码的可读性。</p><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902093439091.png" alt="image-20250902093439091"></p><p>对应的剪纸的过程中，采用折叠的方式也可以类比到神经网络，剪纸的层数增加，从而使工匠对于制作的过程中更加的简洁，节省体力，增加效率。<img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902093612634.png" alt="image-20250902093612634"></p><h2 id="五-总之：：：：："><a href="#五-总之：：：：：" class="headerlink" title="五.总之：：：：："></a>五.总之：：：：：</h2><p><img src="/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/image-20250902093655940.png" alt="image-20250902093655940"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;鱼与熊掌兼得（deeplearning的好处）&quot;&gt;&lt;a href=&quot;#鱼与熊掌兼得（deeplearning的好处）&quot; class=&quot;headerlink&quot; title=&quot;鱼与熊掌兼得（deeplearning的好处）&quot;&gt;&lt;/a&gt;鱼与熊掌兼得（deeplearni</summary>
+      
+    
+    
+    
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="deeplearning" scheme="http://interaction2023.cn/tags/deeplearning/"/>
+    
+  </entry>
   
   <entry>
     <title>CNN</title>

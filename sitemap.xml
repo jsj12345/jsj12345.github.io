@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://interaction2023.cn/2025/09/02/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://interaction2023.cn/2025/09/01/CNN/</loc>
     
     <lastmod>2025-09-01</lastmod>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>http://interaction2023.cn/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,77 +147,84 @@
   
   <url>
     <loc>http://interaction2023.cn/tags/openVZ/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/linux-%E6%93%8D%E4%BD%9C/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/VM/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/KVM/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/Docker/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/%E8%AF%8D%E5%90%91%E9%87%8F/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/tags/CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://interaction2023.cn/tags/deeplearning/</loc>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -217,49 +233,49 @@
   
   <url>
     <loc>http://interaction2023.cn/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/nlp/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
