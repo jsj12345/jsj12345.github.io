@@ -3,11 +3,11 @@
   <title>JSJ-0513</title>
   
   <subtitle>about CS</subtitle>
-  <link href="https://jsj12345.github.io/atom.xml" rel="self"/>
+  <link href="https://jsj12345.github.io/master/atom.xml" rel="self"/>
   
-  <link href="https://jsj12345.github.io/"/>
+  <link href="https://jsj12345.github.io/master/"/>
   <updated>2025-09-11T08:08:28.714Z</updated>
-  <id>https://jsj12345.github.io/</id>
+  <id>https://jsj12345.github.io/master/</id>
   
   <author>
     <name>荆树吉</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://jsj12345.github.io/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
-    <id>https://jsj12345.github.io/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</id>
     <published>2025-09-30T02:20:45.334Z</published>
     <updated>2025-09-11T08:08:28.714Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>生成式对抗网络</title>
-    <link href="https://jsj12345.github.io/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
-    <id>https://jsj12345.github.io/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/</id>
     <published>2025-09-30T02:20:45.327Z</published>
     <updated>2025-09-06T07:06:33.053Z</updated>
     
@@ -55,17 +55,17 @@
     
     
     
-    <category term="机器学习" scheme="https://jsj12345.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://jsj12345.github.io/master/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="生成式对抗网络" scheme="https://jsj12345.github.io/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
+    <category term="生成式对抗网络" scheme="https://jsj12345.github.io/master/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="https://jsj12345.github.io/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/"/>
-    <id>https://jsj12345.github.io/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/</id>
     <published>2025-09-30T02:20:45.296Z</published>
     <updated>2025-09-04T00:53:10.785Z</updated>
     
@@ -84,8 +84,8 @@
   
   <entry>
     <title>deeplearning 鱼与熊掌可以兼得</title>
-    <link href="https://jsj12345.github.io/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/"/>
-    <id>https://jsj12345.github.io/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</id>
     <published>2025-09-30T02:20:45.267Z</published>
     <updated>2025-09-02T01:37:05.668Z</updated>
     
@@ -99,17 +99,17 @@
     
     
     
-    <category term="机器学习" scheme="https://jsj12345.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://jsj12345.github.io/master/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="deeplearning" scheme="https://jsj12345.github.io/tags/deeplearning/"/>
+    <category term="deeplearning" scheme="https://jsj12345.github.io/master/tags/deeplearning/"/>
     
   </entry>
   
   <entry>
     <title>CNN</title>
-    <link href="https://jsj12345.github.io/2025/09/30/CNN/"/>
-    <id>https://jsj12345.github.io/2025/09/30/CNN/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/CNN/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/CNN/</id>
     <published>2025-09-30T02:20:45.264Z</published>
     <updated>2025-09-01T03:49:25.349Z</updated>
     
@@ -124,17 +124,17 @@
     
     
     
-    <category term="机器学习" scheme="https://jsj12345.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://jsj12345.github.io/master/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="CNN卷积神经网络" scheme="https://jsj12345.github.io/tags/CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    <category term="CNN卷积神经网络" scheme="https://jsj12345.github.io/master/tags/CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>六级</title>
-    <link href="https://jsj12345.github.io/2025/09/30/%E5%85%AD%E7%BA%A7/"/>
-    <id>https://jsj12345.github.io/2025/09/30/%E5%85%AD%E7%BA%A7/</id>
+    <link href="https://jsj12345.github.io/master/2025/09/30/%E5%85%AD%E7%BA%A7/"/>
+    <id>https://jsj12345.github.io/master/2025/09/30/%E5%85%AD%E7%BA%A7/</id>
     <published>2025-09-30T02:05:00.351Z</published>
     <updated>2025-09-30T02:15:44.126Z</updated>
     
@@ -149,17 +149,17 @@
     
     
     
-    <category term="英语" scheme="https://jsj12345.github.io/categories/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="英语" scheme="https://jsj12345.github.io/master/categories/%E8%8B%B1%E8%AF%AD/"/>
     
     
-    <category term="六级" scheme="https://jsj12345.github.io/tags/%E5%85%AD%E7%BA%A7/"/>
+    <category term="六级" scheme="https://jsj12345.github.io/master/tags/%E5%85%AD%E7%BA%A7/"/>
     
   </entry>
   
   <entry>
     <title>项目</title>
-    <link href="https://jsj12345.github.io/2025/03/19/PROJECT/"/>
-    <id>https://jsj12345.github.io/2025/03/19/PROJECT/</id>
+    <link href="https://jsj12345.github.io/master/2025/03/19/PROJECT/"/>
+    <id>https://jsj12345.github.io/master/2025/03/19/PROJECT/</id>
     <published>2025-03-19T13:51:59.038Z</published>
     <updated>2025-03-20T04:06:36.576Z</updated>
     
@@ -170,17 +170,17 @@
     
     
     
-    <category term="项目" scheme="https://jsj12345.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://jsj12345.github.io/master/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="项目" scheme="https://jsj12345.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://jsj12345.github.io/master/tags/%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
   <entry>
     <title>MACHINE</title>
-    <link href="https://jsj12345.github.io/2025/03/19/report/"/>
-    <id>https://jsj12345.github.io/2025/03/19/report/</id>
+    <link href="https://jsj12345.github.io/master/2025/03/19/report/"/>
+    <id>https://jsj12345.github.io/master/2025/03/19/report/</id>
     <published>2025-03-19T13:26:38.939Z</published>
     <updated>2025-03-20T04:02:03.322Z</updated>
     
@@ -191,17 +191,17 @@
     
     
     
-    <category term="机器学习" scheme="https://jsj12345.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://jsj12345.github.io/master/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Machine learning" scheme="https://jsj12345.github.io/tags/Machine-learning/"/>
+    <category term="Machine learning" scheme="https://jsj12345.github.io/master/tags/Machine-learning/"/>
     
   </entry>
   
   <entry>
     <title>（hexo github）搭建云平台</title>
-    <link href="https://jsj12345.github.io/2025/03/19/ok/"/>
-    <id>https://jsj12345.github.io/2025/03/19/ok/</id>
+    <link href="https://jsj12345.github.io/master/2025/03/19/ok/"/>
+    <id>https://jsj12345.github.io/master/2025/03/19/ok/</id>
     <published>2025-03-19T12:58:46.784Z</published>
     <updated>2025-09-01T03:44:49.472Z</updated>
     
@@ -212,17 +212,17 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="云平台搭建" scheme="https://jsj12345.github.io/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/"/>
+    <category term="云平台搭建" scheme="https://jsj12345.github.io/master/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>数据结构</title>
-    <link href="https://jsj12345.github.io/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>https://jsj12345.github.io/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <link href="https://jsj12345.github.io/master/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://jsj12345.github.io/master/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <published>2024-11-08T09:38:54.817Z</published>
     <updated>2025-03-19T12:43:46.534Z</updated>
     
@@ -233,17 +233,17 @@
     
     
     
-    <category term="数据结构" scheme="https://jsj12345.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="https://jsj12345.github.io/master/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="https://jsj12345.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="https://jsj12345.github.io/master/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
     <title>计算机网络笔记</title>
-    <link href="https://jsj12345.github.io/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/"/>
-    <id>https://jsj12345.github.io/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</id>
     <published>2024-10-01T01:58:39.767Z</published>
     <updated>2024-11-07T14:53:12.573Z</updated>
     
@@ -254,17 +254,17 @@
     
     
     
-    <category term="计算机网络" scheme="https://jsj12345.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <category term="计算机网络" scheme="https://jsj12345.github.io/master/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="openVZ" scheme="https://jsj12345.github.io/tags/openVZ/"/>
+    <category term="openVZ" scheme="https://jsj12345.github.io/master/tags/openVZ/"/>
     
   </entry>
   
   <entry>
     <title>操作系统笔记</title>
-    <link href="https://jsj12345.github.io/2024/10/01/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/"/>
-    <id>https://jsj12345.github.io/2024/10/01/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/</id>
     <published>2024-10-01T01:58:39.764Z</published>
     <updated>2024-10-12T04:02:51.877Z</updated>
     
@@ -275,17 +275,17 @@
     
     
     
-    <category term="操作系统" scheme="https://jsj12345.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://jsj12345.github.io/master/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="操作系统" scheme="https://jsj12345.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://jsj12345.github.io/master/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>nlp05</title>
-    <link href="https://jsj12345.github.io/2024/10/01/nlp05/"/>
-    <id>https://jsj12345.github.io/2024/10/01/nlp05/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/nlp05/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/nlp05/</id>
     <published>2024-10-01T01:58:39.754Z</published>
     <updated>2025-03-19T12:39:10.321Z</updated>
     
@@ -296,17 +296,17 @@
     
     
     
-    <category term="nlp" scheme="https://jsj12345.github.io/categories/nlp/"/>
+    <category term="nlp" scheme="https://jsj12345.github.io/master/categories/nlp/"/>
     
     
-    <category term="词向量" scheme="https://jsj12345.github.io/tags/%E8%AF%8D%E5%90%91%E9%87%8F/"/>
+    <category term="词向量" scheme="https://jsj12345.github.io/master/tags/%E8%AF%8D%E5%90%91%E9%87%8F/"/>
     
   </entry>
   
   <entry>
     <title>KVM环境配置</title>
-    <link href="https://jsj12345.github.io/2024/10/01/KVM/"/>
-    <id>https://jsj12345.github.io/2024/10/01/KVM/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/KVM/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/KVM/</id>
     <published>2024-10-01T01:58:39.751Z</published>
     <updated>2025-03-19T12:38:32.054Z</updated>
     
@@ -317,17 +317,17 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="KVM" scheme="https://jsj12345.github.io/tags/KVM/"/>
+    <category term="KVM" scheme="https://jsj12345.github.io/master/tags/KVM/"/>
     
   </entry>
   
   <entry>
     <title>Docker环境配置</title>
-    <link href="https://jsj12345.github.io/2024/10/01/Docker/"/>
-    <id>https://jsj12345.github.io/2024/10/01/Docker/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/Docker/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/Docker/</id>
     <published>2024-10-01T01:58:39.748Z</published>
     <updated>2024-10-02T11:30:15.359Z</updated>
     
@@ -338,17 +338,17 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="Docker" scheme="https://jsj12345.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://jsj12345.github.io/master/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>计算机组成</title>
-    <link href="https://jsj12345.github.io/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
-    <id>https://jsj12345.github.io/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
     <published>2024-10-01T01:58:39.746Z</published>
     <updated>2024-10-09T14:16:09.467Z</updated>
     
@@ -359,17 +359,17 @@
     
     
     
-    <category term="计算机组成" scheme="https://jsj12345.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <category term="计算机组成" scheme="https://jsj12345.github.io/master/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
     
     
-    <category term="计算机组成" scheme="https://jsj12345.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <category term="计算机组成" scheme="https://jsj12345.github.io/master/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机网络配置和共享文件夹</title>
-    <link href="https://jsj12345.github.io/2024/10/01/4/"/>
-    <id>https://jsj12345.github.io/2024/10/01/4/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/4/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/4/</id>
     <published>2024-10-01T01:58:39.743Z</published>
     <updated>2025-03-19T12:32:54.518Z</updated>
     
@@ -380,17 +380,17 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="VM" scheme="https://jsj12345.github.io/tags/VM/"/>
+    <category term="VM" scheme="https://jsj12345.github.io/master/tags/VM/"/>
     
   </entry>
   
   <entry>
     <title>Linux环境基本操作练习</title>
-    <link href="https://jsj12345.github.io/2024/10/01/1/"/>
-    <id>https://jsj12345.github.io/2024/10/01/1/</id>
+    <link href="https://jsj12345.github.io/master/2024/10/01/1/"/>
+    <id>https://jsj12345.github.io/master/2024/10/01/1/</id>
     <published>2024-10-01T01:58:39.740Z</published>
     <updated>2025-03-19T12:32:14.409Z</updated>
     
@@ -401,17 +401,17 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="linux 操作" scheme="https://jsj12345.github.io/tags/linux-%E6%93%8D%E4%BD%9C/"/>
+    <category term="linux 操作" scheme="https://jsj12345.github.io/master/tags/linux-%E6%93%8D%E4%BD%9C/"/>
     
   </entry>
   
   <entry>
     <title>openVZ</title>
-    <link href="https://jsj12345.github.io/2023/10/28/openVZ/"/>
-    <id>https://jsj12345.github.io/2023/10/28/openVZ/</id>
+    <link href="https://jsj12345.github.io/master/2023/10/28/openVZ/"/>
+    <id>https://jsj12345.github.io/master/2023/10/28/openVZ/</id>
     <published>2023-10-28T04:40:01.997Z</published>
     <updated>2025-03-19T12:40:35.586Z</updated>
     
@@ -422,10 +422,10 @@
     
     
     
-    <category term="云计算" scheme="https://jsj12345.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://jsj12345.github.io/master/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="openVZ" scheme="https://jsj12345.github.io/tags/openVZ/"/>
+    <category term="openVZ" scheme="https://jsj12345.github.io/master/tags/openVZ/"/>
     
   </entry>
   
