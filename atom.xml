@@ -3,11 +3,11 @@
   <title>JSJ-0513</title>
   
   <subtitle>about CS</subtitle>
-  <link href="https://example.com/atom.xml" rel="self"/>
+  <link href="http://interaction2023.cn/atom.xml" rel="self"/>
   
-  <link href="https://example.com/"/>
+  <link href="http://interaction2023.cn/"/>
   <updated>2025-10-26T12:05:08.087Z</updated>
-  <id>https://example.com/</id>
+  <id>http://interaction2023.cn/</id>
   
   <author>
     <name>荆树吉</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>transformer</title>
-    <link href="https://example.com/2025/10/24/transfomer/"/>
-    <id>https://example.com/2025/10/24/transfomer/</id>
+    <link href="http://interaction2023.cn/2025/10/24/transfomer/"/>
+    <id>http://interaction2023.cn/2025/10/24/transfomer/</id>
     <published>2025-10-24T14:29:06.915Z</published>
     <updated>2025-10-26T12:05:08.087Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="变形金刚" scheme="https://example.com/tags/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A/"/>
+    <category term="变形金刚" scheme="http://interaction2023.cn/tags/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A/"/>
     
   </entry>
   
   <entry>
     <title>人工智能ppt集合</title>
-    <link href="https://example.com/2025/10/24/AI%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
-    <id>https://example.com/2025/10/24/AI%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
+    <link href="http://interaction2023.cn/2025/10/24/AI%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
+    <id>http://interaction2023.cn/2025/10/24/AI%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
     <published>2025-10-24T12:38:54.570Z</published>
     <updated>2025-10-24T12:53:53.381Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="AI" scheme="https://example.com/tags/AI/"/>
+    <category term="AI" scheme="http://interaction2023.cn/tags/AI/"/>
     
   </entry>
   
   <entry>
     <title>矩阵分析关键手写笔记</title>
-    <link href="https://example.com/2025/10/24/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0/"/>
-    <id>https://example.com/2025/10/24/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://interaction2023.cn/2025/10/24/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0/"/>
+    <id>http://interaction2023.cn/2025/10/24/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0/</id>
     <published>2025-10-24T12:13:17.211Z</published>
     <updated>2025-10-24T12:33:46.320Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="数学基础" scheme="https://example.com/categories/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/"/>
+    <category term="数学基础" scheme="http://interaction2023.cn/categories/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="矩阵" scheme="https://example.com/tags/%E7%9F%A9%E9%98%B5/"/>
+    <category term="矩阵" scheme="http://interaction2023.cn/tags/%E7%9F%A9%E9%98%B5/"/>
     
   </entry>
   
   <entry>
     <title>自注意力机制</title>
-    <link href="https://example.com/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
-    <id>https://example.com/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</id>
     <published>2025-09-30T02:24:50.882Z</published>
     <updated>2025-10-24T12:05:50.691Z</updated>
     
@@ -93,17 +93,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="自注意力机制" scheme="https://example.com/tags/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
+    <category term="自注意力机制" scheme="http://interaction2023.cn/tags/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
     
   </entry>
   
   <entry>
     <title>生成式对抗网络</title>
-    <link href="https://example.com/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
-    <id>https://example.com/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/</id>
     <published>2025-09-30T02:24:50.878Z</published>
     <updated>2025-10-24T11:55:25.299Z</updated>
     
@@ -118,17 +118,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="生成式对抗网络" scheme="https://example.com/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
+    <category term="生成式对抗网络" scheme="http://interaction2023.cn/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>计算机组成</title>
-    <link href="https://example.com/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
-    <id>https://example.com/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
     <published>2025-09-30T02:24:50.875Z</published>
     <updated>2025-10-24T11:55:30.100Z</updated>
     
@@ -139,17 +139,17 @@
     
     
     
-    <category term="计算机组成" scheme="https://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <category term="计算机组成" scheme="http://interaction2023.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
     
     
-    <category term="计算机组成" scheme="https://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
+    <category term="计算机组成" scheme="http://interaction2023.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/"/>
     
   </entry>
   
   <entry>
     <title>计算机网络笔记</title>
-    <link href="https://example.com/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/"/>
-    <id>https://example.com/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</id>
     <published>2025-09-30T02:24:50.868Z</published>
     <updated>2025-10-24T11:57:07.000Z</updated>
     
@@ -160,17 +160,17 @@
     
     
     
-    <category term="计算机网络" scheme="https://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <category term="计算机网络" scheme="http://interaction2023.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="openVZ" scheme="https://example.com/tags/openVZ/"/>
+    <category term="openVZ" scheme="http://interaction2023.cn/tags/openVZ/"/>
     
   </entry>
   
   <entry>
     <title>操作系统笔记</title>
-    <link href="https://example.com/2025/09/30/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/"/>
-    <id>https://example.com/2025/09/30/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/</id>
     <published>2025-09-30T02:24:50.860Z</published>
     <updated>2025-10-24T11:56:54.102Z</updated>
     
@@ -181,17 +181,17 @@
     
     
     
-    <category term="操作系统" scheme="https://example.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="http://interaction2023.cn/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="操作系统" scheme="https://example.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="http://interaction2023.cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>deeplearning 鱼与熊掌可以兼得</title>
-    <link href="https://example.com/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/"/>
-    <id>https://example.com/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</id>
+    <link href="http://interaction2023.cn/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/"/>
+    <id>http://interaction2023.cn/2025/09/30/deeplearning%E9%B1%BC%E4%B8%8E%E7%86%8A%E6%8E%8C%E5%8F%AF%E4%BB%A5%E5%85%BC%E5%BE%97/</id>
     <published>2025-09-30T02:24:50.838Z</published>
     <updated>2025-10-24T11:54:12.877Z</updated>
     
@@ -205,17 +205,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="deeplearning" scheme="https://example.com/tags/deeplearning/"/>
+    <category term="deeplearning" scheme="http://interaction2023.cn/tags/deeplearning/"/>
     
   </entry>
   
   <entry>
     <title>CNN</title>
-    <link href="https://example.com/2025/09/30/CNN/"/>
-    <id>https://example.com/2025/09/30/CNN/</id>
+    <link href="http://interaction2023.cn/2025/09/30/CNN/"/>
+    <id>http://interaction2023.cn/2025/09/30/CNN/</id>
     <published>2025-09-30T02:24:50.836Z</published>
     <updated>2025-10-24T11:53:58.797Z</updated>
     
@@ -230,17 +230,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="CNN卷积神经网络" scheme="https://example.com/tags/CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    <category term="CNN卷积神经网络" scheme="http://interaction2023.cn/tags/CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="https://example.com/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/"/>
-    <id>https://example.com/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/</id>
+    <link href="http://interaction2023.cn/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/"/>
+    <id>http://interaction2023.cn/2025/09/30/Principle%20and%20Applications%20of%20Artificial%20Intelligence/</id>
     <published>2025-09-30T02:20:45.296Z</published>
     <updated>2025-09-04T00:53:10.785Z</updated>
     
@@ -259,8 +259,8 @@
   
   <entry>
     <title>六级</title>
-    <link href="https://example.com/2025/09/30/%E5%85%AD%E7%BA%A7/"/>
-    <id>https://example.com/2025/09/30/%E5%85%AD%E7%BA%A7/</id>
+    <link href="http://interaction2023.cn/2025/09/30/%E5%85%AD%E7%BA%A7/"/>
+    <id>http://interaction2023.cn/2025/09/30/%E5%85%AD%E7%BA%A7/</id>
     <published>2025-09-30T02:05:00.351Z</published>
     <updated>2025-09-30T02:15:44.126Z</updated>
     
@@ -275,17 +275,17 @@
     
     
     
-    <category term="英语" scheme="https://example.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="英语" scheme="http://interaction2023.cn/categories/%E8%8B%B1%E8%AF%AD/"/>
     
     
-    <category term="六级" scheme="https://example.com/tags/%E5%85%AD%E7%BA%A7/"/>
+    <category term="六级" scheme="http://interaction2023.cn/tags/%E5%85%AD%E7%BA%A7/"/>
     
   </entry>
   
   <entry>
     <title>项目</title>
-    <link href="https://example.com/2025/03/19/PROJECT/"/>
-    <id>https://example.com/2025/03/19/PROJECT/</id>
+    <link href="http://interaction2023.cn/2025/03/19/PROJECT/"/>
+    <id>http://interaction2023.cn/2025/03/19/PROJECT/</id>
     <published>2025-03-19T13:51:59.038Z</published>
     <updated>2025-03-20T04:06:36.576Z</updated>
     
@@ -296,17 +296,17 @@
     
     
     
-    <category term="项目" scheme="https://example.com/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="http://interaction2023.cn/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="项目" scheme="https://example.com/tags/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="http://interaction2023.cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
   <entry>
     <title>MACHINE</title>
-    <link href="https://example.com/2025/03/19/report/"/>
-    <id>https://example.com/2025/03/19/report/</id>
+    <link href="http://interaction2023.cn/2025/03/19/report/"/>
+    <id>http://interaction2023.cn/2025/03/19/report/</id>
     <published>2025-03-19T13:26:38.939Z</published>
     <updated>2025-10-24T11:55:01.038Z</updated>
     
@@ -317,17 +317,17 @@
     
     
     
-    <category term="机器学习" scheme="https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="http://interaction2023.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Machine learning" scheme="https://example.com/tags/Machine-learning/"/>
+    <category term="Machine learning" scheme="http://interaction2023.cn/tags/Machine-learning/"/>
     
   </entry>
   
   <entry>
     <title>（hexo github）搭建云平台</title>
-    <link href="https://example.com/2025/03/19/ok/"/>
-    <id>https://example.com/2025/03/19/ok/</id>
+    <link href="http://interaction2023.cn/2025/03/19/ok/"/>
+    <id>http://interaction2023.cn/2025/03/19/ok/</id>
     <published>2025-03-19T12:58:46.784Z</published>
     <updated>2025-09-01T03:44:49.472Z</updated>
     
@@ -338,17 +338,17 @@
     
     
     
-    <category term="云计算" scheme="https://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="http://interaction2023.cn/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="云平台搭建" scheme="https://example.com/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/"/>
+    <category term="云平台搭建" scheme="http://interaction2023.cn/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>数据结构</title>
-    <link href="https://example.com/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>https://example.com/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <link href="http://interaction2023.cn/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>http://interaction2023.cn/2024/11/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <published>2024-11-08T09:38:54.817Z</published>
     <updated>2025-03-19T12:43:46.534Z</updated>
     
@@ -359,17 +359,17 @@
     
     
     
-    <category term="数据结构" scheme="https://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://interaction2023.cn/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="https://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://interaction2023.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
     <title>nlp05</title>
-    <link href="https://example.com/2024/10/01/nlp05/"/>
-    <id>https://example.com/2024/10/01/nlp05/</id>
+    <link href="http://interaction2023.cn/2024/10/01/nlp05/"/>
+    <id>http://interaction2023.cn/2024/10/01/nlp05/</id>
     <published>2024-10-01T01:58:39.754Z</published>
     <updated>2025-03-19T12:39:10.321Z</updated>
     
@@ -380,17 +380,17 @@
     
     
     
-    <category term="nlp" scheme="https://example.com/categories/nlp/"/>
+    <category term="nlp" scheme="http://interaction2023.cn/categories/nlp/"/>
     
     
-    <category term="词向量" scheme="https://example.com/tags/%E8%AF%8D%E5%90%91%E9%87%8F/"/>
+    <category term="词向量" scheme="http://interaction2023.cn/tags/%E8%AF%8D%E5%90%91%E9%87%8F/"/>
     
   </entry>
   
   <entry>
     <title>KVM环境配置</title>
-    <link href="https://example.com/2024/10/01/KVM/"/>
-    <id>https://example.com/2024/10/01/KVM/</id>
+    <link href="http://interaction2023.cn/2024/10/01/KVM/"/>
+    <id>http://interaction2023.cn/2024/10/01/KVM/</id>
     <published>2024-10-01T01:58:39.751Z</published>
     <updated>2025-03-19T12:38:32.054Z</updated>
     
@@ -401,17 +401,17 @@
     
     
     
-    <category term="云计算" scheme="https://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="http://interaction2023.cn/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="KVM" scheme="https://example.com/tags/KVM/"/>
+    <category term="KVM" scheme="http://interaction2023.cn/tags/KVM/"/>
     
   </entry>
   
   <entry>
     <title>Docker环境配置</title>
-    <link href="https://example.com/2024/10/01/Docker/"/>
-    <id>https://example.com/2024/10/01/Docker/</id>
+    <link href="http://interaction2023.cn/2024/10/01/Docker/"/>
+    <id>http://interaction2023.cn/2024/10/01/Docker/</id>
     <published>2024-10-01T01:58:39.748Z</published>
     <updated>2024-10-02T11:30:15.359Z</updated>
     
@@ -422,17 +422,17 @@
     
     
     
-    <category term="云计算" scheme="https://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="http://interaction2023.cn/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="Docker" scheme="https://example.com/tags/Docker/"/>
+    <category term="Docker" scheme="http://interaction2023.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机网络配置和共享文件夹</title>
-    <link href="https://example.com/2024/10/01/4/"/>
-    <id>https://example.com/2024/10/01/4/</id>
+    <link href="http://interaction2023.cn/2024/10/01/4/"/>
+    <id>http://interaction2023.cn/2024/10/01/4/</id>
     <published>2024-10-01T01:58:39.743Z</published>
     <updated>2025-03-19T12:32:54.518Z</updated>
     
@@ -443,10 +443,10 @@
     
     
     
-    <category term="云计算" scheme="https://example.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="http://interaction2023.cn/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
     
-    <category term="VM" scheme="https://example.com/tags/VM/"/>
+    <category term="VM" scheme="http://interaction2023.cn/tags/VM/"/>
     
   </entry>
   
